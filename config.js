@@ -6,11 +6,11 @@ const config = {
     trailingSlash: false,
   },
   header: {
-    logo: 'https://github.com/Blockits/Wallet-docs/public/static/img/icon-128.png',
+    logo: 'https://github.com/Blockits/Wallet-docs/src/assets/img/icon-128.png',
     logoLink: 'https://github.com/Blockits/Wallet-docs',
     title:
-      "<a href='https://github.com/Blockits/Wallet-docs'><img class='img-responsive' src='https://github.com/Blockits/Wallet-docs/public/static/img/icon-34.png' alt='Wallet logo' /></a>",
-    githubUrl: 'https://github.com/hasura/gatsby-gitbook-boilerplate',
+      "<a href='https://github.com/Blockits/Wallet-docs'><img class='img-responsive' src='https://github.com/Blockits/Wallet-docs/src/assets/img/icon-34.png' alt='Wallet logo' /></a>",
+    githubUrl: 'https://github.com/Blockits/Wallet-docs',
     helpUrl: '',
     tweetText: '',
     social: `<li>
